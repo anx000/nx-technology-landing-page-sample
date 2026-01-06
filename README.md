@@ -1,4 +1,5 @@
-# N X Technologies Landing Page
+# N X Technologies Landing Page -https://nx-technology-landing-page-sample.vercel.app/
+link 🔗 https://nx-technology-landing-page-sample.vercel.app/
 
 Vibrant, modern landing page for a studio building websites and apps for clients.
 
@@ -30,3 +31,4 @@ C:\Users\anexe\CascadeProjects\nx-technologies-landing
 - Update copy directly in `index.html`.
 - Adjust colors, layout, or animations inside `css/style.css`.
 - Replace placeholder project/testimonial info with real data.
+
